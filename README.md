@@ -1,56 +1,74 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Awab Elkhair (aka Pinkkygold)
 
-🎓 I'm an **Electrical and Computer Engineer** with a strong passion for **Data Science**, **Machine Learning**, and real-world problem-solving through data.
+🎓 **Electrical and Computer Engineer** | 📊 **Data Scientist & Analyst** | 🤖 **Machine Learning Enthusiast**
 
 ## 🚀 About Me
 
-* 💡 Currently diving deep into **Data Analytics** and **Machine Learning**
-* 📊 Skilled in **Excel**, **Power BI**, **MySQL**, and **Python**
-* 🧠 Using **Anaconda** to manage data science environments and notebooks
-* 🤖 Aspiring **Machine Learning Engineer**
-* 🌍 Open to collaborations, learning opportunities, and impactful projects
+I'm a passionate engineer transitioning into the world of data science and machine learning. I love transforming raw data into meaningful insights and building intelligent solutions to real-world problems.
 
-## 🛠️ Tools & Technologies
+* 💡 Currently diving deep into **Machine Learning** and **Advanced Data Analytics**
+* 📊 Skilled in **Python**, **SQL**, **Power BI**, and **Statistical Analysis**
+* 🧠 Using **Anaconda** and **Jupyter** for data science workflows
+* 🤖 Building expertise in **Predictive Modeling** and **ML Algorithms**
+* 🌍 Open to collaborations, learning opportunities, and impactful data projects
 
-* **Languages**: Python, SQL, C++
-* **Data Analysis**: Pandas, Numpy, Matplotlib, Seaborn
-* **Visualization**: Power BI, Excel, Tableau
-* **ML & Environments**: Anaconda, Jupyter Notebook, Scikit-learn
-* **Version Control**: Git & GitHub
+## 🛠️ Technical Skills
 
-## 📌 Projects
+* **Programming**: Python, SQL, C++
+* **Data Analysis & ML**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+* **Data Visualization**: Power BI, Excel, Tableau
+* **Tools & Environments**: Anaconda, Jupyter Notebook, Git, GitHub
+* **Databases**: MySQL, SQL Server
 
-* [📊 Global Superstore Sales Analytics (Power BI)](https://github.com/Pinkkygold/global-superstore-analytics)
-  My first data analytics project exploring sales performance with interactive visualizations.
+## 📊 Featured Projects
 
-* [📊 Sales Data Cleaning and Consolidation](https://github.com/Pinkkygold/Sales-Data-Cleaning-and-Consolidation)
-  A full project focused on cleaning raw employee sales data using Excel and Power BI, prepping it for dashboards and analysis.
+### [🚗 Car Price Analysis - EDA](https://github.com/Pinkkygold/Car-Price-Analysis)
+**Comprehensive Exploratory Data Analysis of Used Cars Market**
+- Performed data cleaning and feature engineering on 7,253 car listings
+- Analyzed pricing patterns across brands, fuel types, and vehicle specifications
+- Created derived features (Car_Age, Brand, Model) for deeper insights
+- Identified key factors influencing used car prices in Indian market
+- **Tech Stack**: Python, Pandas, NumPy, Matplotlib, Seaborn
 
-*(More projects coming soon...)*
+### [📊 Global Superstore Sales Analytics](https://github.com/Pinkkygold/global-superstore-analytics)
+**Interactive Business Intelligence Dashboard**
+- Developed comprehensive sales performance analysis with Power BI
+- Created interactive visualizations for sales trends and regional performance
+- Implemented KPI tracking and business metrics monitoring
 
-## 📢 Let's Connect!
+### [🧹 Sales Data Cleaning and Consolidation](https://github.com/Pinkkygold/Sales-Data-Cleaning-and-Consolidation)
+**Data Preprocessing Pipeline**
+- Cleaned and consolidated raw employee sales data using Excel and Power BI
+- Built automated data preparation workflows for dashboard integration
+- Established data quality standards and validation processes
 
-* LinkedIn: [www.linkedin.com/in/awab-abdalla](https://www.linkedin.com/in/awab-abdalla)
-* Email: [awab1355@gmail.com](mailto:awab1355@gmail.com)
-* GitHub: [github.com/Pinkkygold](https://github.com/Pinkkygold)
+## 📈 What I'm Working On
+
+* 🔭 Expanding my **Machine Learning** portfolio with predictive modeling projects
+* 🌱 Learning **Deep Learning** and **Neural Networks**
+* 👯 Looking to collaborate on **Data Science for Social Good** projects
+* 💼 Building my expertise in **Time Series Analysis** and **Natural Language Processing**
+
+## 📫 Let's Connect!
+
+I'm always excited to connect with fellow data enthusiasts, learn from others, and explore collaboration opportunities!
+
+* **LinkedIn**: [www.linkedin.com/in/awab-abdalla](https://www.linkedin.com/in/awab-abdalla)
+* **Email**: [awab1355@gmail.com](mailto:awab1355@gmail.com)
+* **GitHub**: [github.com/Pinkkygold](https://github.com/Pinkkygold)
 
 ---
 
-✨ I'm always learning and building — feel free to explore my repositories and reach out if you're interested in collaboration or sharing ideas!
+### 🎯 Currently Seeking
+* Data Science/Analytics roles and internships
+* Collaborative projects in machine learning and data analysis
+* Opportunities to apply data skills to real-world challenges
 
-<!--
-**Pinkkygold/Pinkkygold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats
+![Awab's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkkygold&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+---
 
-- 📝 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯️ I’m looking to collaborate on ...
-- 🧐 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📢 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ **Fun Fact**: I believe data tells stories, and I'm passionate about being the storyteller who uncovers hidden patterns and drives data-informed decisions!
+
+*"In God we trust; all others must bring data." - W. Edwards Deming*
