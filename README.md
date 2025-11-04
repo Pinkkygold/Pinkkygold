@@ -10,42 +10,101 @@
 
 ---
 
-## 🚀 Quick Overview
+## 🚀 About Me
 
-I’m an **Electronics & Computer Engineer** passionate about building **AI-driven, real-world solutions**.  
-Over the past year, I’ve built and deployed **6+ interactive Machine Learning web apps**, all running live on **Render Cloud**.  
-
-Each project demonstrates an **end-to-end ML workflow** — from data preprocessing to model deployment — using **Flask**, **Scikit-Learn**, and **Gunicorn**.
+I’m an **Electronics & Computer Engineer** passionate about building **AI-driven, real-world solutions** that bridge data and decision-making.  
+Over the past year, I’ve developed and deployed **6+ interactive Machine Learning web apps** — all live on **Render Cloud** — showcasing my skills in **Flask**, **Scikit-Learn**, and **end-to-end deployment pipelines**.
 
 💡 *I turn data into intelligence — and intelligence into action.*
 
 ---
 
-## 🧠 My Live Machine Learning Apps
+## 🧠 Featured Machine Learning Apps
 
-| Category | Projects | Live Demo | GitHub |
-|-----------|-----------|------------|--------|
+| Category | Project | Live Demo | GitHub |
+|-----------|----------|-----------|--------|
 | 🏠 **Linear Regression** | Boston House Price Predictor | [Live](https://house-price-prediction-d58i.onrender.com/predict) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Unsupervised%20learning/Regression%20models/Boston%20House) |
 | 🚗 | Car Price Prediction | [Live](https://car-price-predictor-6t6e.onrender.com) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Unsupervised%20learning/Regression%20models/Car%20Price%20predictor) |
 | 🧠 **Regression with a Twist** | Happiness Predictor | [Live](https://machine-learning-projects-d0gh.onrender.com) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Unsupervised%20learning/Regression%20models/Happyness%20Index) |
 | 🍦 | Ice Cream Sales Predictor | [Live](https://ice-cream-sales-jv5w.onrender.com) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Unsupervised%20learning/Polynomial%20Regression/Ice%20Cream%20sales) |
 | 🎗️ **Logistic Regression** | Breast Cancer Predictor | [Live](https://simple-breast-cancer-predictor.onrender.com) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Unsupervised%20learning/Logistic%20Regression) |
 | ❤️ | Heart Attack Predictor | [Live](https://machine-learning-projects-s5t4.onrender.com) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Unsupervised%20learning/Logistic%20Regression) |
-| 🌳 **Decision Tree** | Heart Attack Risk Dashboard | [Live](https://hearattack-with-decisiontree.onrender.com) | [Repo](https://github.com/Pinkkygold/heart-attack-dashboard) |
+| 🌳 **Decision Tree Classifier** | Heart Attack Risk Dashboard | [Live](https://hearattack-with-decisiontree.onrender.com) | [Repo](https://github.com/Pinkkygold/heart-attack-dashboard) |
+
+🧬 *Currently building a new Deep Learning app — stay tuned!* 😉
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Technical Skills
 
-**Languages:** Python, SQL, C++  
-**Frameworks:** Flask, Scikit-Learn, Pandas, NumPy  
-**Visualization:** Matplotlib, Seaborn, Power BI  
-**Deployment:** Render, Gunicorn  
-**Version Control:** Git, GitHub  
+### 🧮 Programming & Data Handling
+- **Languages:** Python (Advanced), SQL (Intermediate), C++ (Intermediate)  
+- **Data Libraries:** Pandas, NumPy, Scikit-Learn, Statsmodels  
+- **Version Control:** Git, GitHub  
+
+### 🎨 Data Visualization & Analytics
+- **Tools:** Power BI, Tableau, Matplotlib, Seaborn  
+- **Focus:** KPI dashboards, storytelling, trend analysis  
+
+### ⚙️ Machine Learning & Deployment
+- **Techniques:** Regression, Classification, Feature Engineering, Cross Validation  
+- **Frameworks:** Flask, Render, Gunicorn  
+- **Specialties:** Model deployment, interpretability, explainable AI  
+
+### 🧩 Databases & Environments
+- **Databases:** MySQL, SQLite  
+- **Environment:** Jupyter, Anaconda, VSCode  
 
 ---
 
-## 📫 Connect with Me  
+## 📁 Featured Repositories
+
+### 🔎 [Exploratory Data Analysis (EDA) Projects](https://github.com/Pinkkygold/EDA-projects)
+A collection of data analysis notebooks exploring **real-world datasets**.  
+Includes **data cleaning, feature engineering, and visualization** using Pandas, NumPy, and Matplotlib.  
+**Examples:**  
+- 🛻 *Car Price Analysis* – uncovering the top pricing drivers in 7,000+ listings.  
+- 🛒 *EuroMart Sales Analysis* – identifying profitability and market trends across regions.  
+
+🧰 *Skills:* Data Wrangling | EDA | Correlation Heatmaps | Feature Importance  
+
+---
+
+### 📊 [Power BI Projects](https://github.com/Pinkkygold/PowerBI-projects)
+A portfolio of **interactive business dashboards** and **data storytelling reports**.  
+Each dashboard transforms raw data into **strategic visual insights** for decision-making.  
+**Examples:**  
+- 📦 *Global Superstore Analytics* – Sales & profit KPIs across 3 continents.  
+- 🧾 *Sales Data ETL & Consolidation* – Power Query workflow for clean, validated business data.  
+
+🧰 *Skills:* DAX, Power Query, Data Modeling, Visualization, KPI Reporting  
+
+---
+
+### 🤖 [Machine Learning Projects](https://github.com/Pinkkygold/Machine-Learning-projects)
+Your one-stop repository for **supervised and unsupervised learning** models — all trained, optimized, and deployed.  
+Covers regression, classification, and decision-tree models with live apps deployed on Render Cloud.  
+
+🧰 *Skills:* ML Modeling | Flask APIs | Cloud Deployment | Model Evaluation  
+
+---
+
+### 📘 [AI & Research Experiments](https://github.com/Pinkkygold/AI-Experiments)
+Early-stage research notebooks and prototype models, focused on **AI for healthcare, sustainability, and youth innovation**.  
+Includes experimental datasets and frameworks for future deep learning projects.  
+
+🧠 *Current Focus:* Deep Learning (TensorFlow, Keras)  
+
+---
+
+## 🎯 Current Focus
+- 🧠 Advancing into **Deep Learning & Neural Networks**  
+- 🌾 Applying **AI in Agriculture & Healthcare**  
+- 🤝 Collaborating on **open-source ML tools** for social good  
+
+---
+
+## 🌐 Let’s Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/awab-abdalla)  
 📊 [ResearchGate](https://www.researchgate.net/profile/Awab-Abdalla)  
@@ -54,84 +113,7 @@ Each project demonstrates an **end-to-end ML workflow** — from data preprocess
 
 ---
 
-# 🧩 Full Profile & Projects Showcase
-
-## 🚀 About Me
-
-I’m an **Electronics & Computer Engineer** passionate about building **real-world AI solutions** — turning machine learning theory into **deployed, interactive web applications**.
-
-Over the past year, I’ve built a full **Machine Learning Projects Repository** featuring 6+ fully deployed web apps, each demonstrating a different ML technique — from **Linear Regression** to **Decision Trees** — all deployed live on **Render Cloud** using **Flask** and **Gunicorn**.
-
-💡 My focus: *interpretable, production-ready ML systems that make data useful and accessible.*
-
----
-
-## 🧠 Machine Learning Project Collections
-
-### ⚙️ Linear Regression Projects
-Predicting prices using data-driven insights.  
-- 🏠 [Boston House Price Predictor (Live)](https://house-price-prediction-d58i.onrender.com/predict)  
-- 🚗 [Car Price Predictor (Live)](https://car-price-predictor-6t6e.onrender.com)  
-📂 [GitHub Source](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Unsupervised%20learning/Regression%20models)
-
----
-
-### 🎨 Regression with a Twist  
-Exploring **Linear & Polynomial Regression** to model happiness and sales patterns.  
-- 🧠 [Happiness Predictor (Live)](https://machine-learning-projects-d0gh.onrender.com)  
-- 🍦 [Ice Cream Sales Predictor (Live)](https://ice-cream-sales-jv5w.onrender.com)  
-📂 [GitHub Source](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Unsupervised%20learning/Polynomial%20Regression)
-
----
-
-### 🩺 Logistic Regression for Health Prediction  
-Demonstrating interpretability in medical AI.  
-- 🎗️ [Breast Cancer Predictor (Live)](https://simple-breast-cancer-predictor.onrender.com)  
-- ❤️ [Heart Attack Predictor (Live)](https://machine-learning-projects-s5t4.onrender.com)  
-📂 [GitHub Source](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Unsupervised%20learning/Logistic%20Regression)
-
-🧬 *Stay tuned — I’m currently developing a Deep Learning model that will soon be deployed!* 😉
-
----
-
-### 🌳 Decision Tree Dashboard  
-Bringing explainability to AI in healthcare.  
-- 🔗 [Heart Attack Risk Predictor (Live)](https://hearattack-with-decisiontree.onrender.com)  
-📂 [GitHub Source](https://github.com/Pinkkygold/heart-attack-dashboard)  
-
----
-
-## 🛠 Technical Skills
-
-| Area | Tools |
-|------|-------|
-| **Programming** | Python, SQL, C++ |
-| **Machine Learning** | Scikit-Learn, Pandas, NumPy |
-| **Visualization** | Matplotlib, Seaborn, Power BI |
-| **Web & Deployment** | Flask, Render, Gunicorn |
-| **Database** | MySQL, SQLite |
-| **Environment** | Jupyter, VSCode, Anaconda |
-
----
-
-## 🎯 What I’m Working On
-- 🧠 Deep Learning & Neural Networks  
-- 🌾 AI for Agriculture and Healthcare  
-- 💼 ML Engineering Roles & Open Collaboration  
-- 🌍 Data for Social Impact  
-
----
-
-## 🌐 Connect with Me
-
-📩 **Email:** [awab1355@gmail.com](mailto:awab1355@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/awab-abdalla](https://linkedin.com/in/awab-abdalla)  
-📊 **ResearchGate:** [Awab Abdalla](https://www.researchgate.net/profile/Awab-Abdalla)  
-💻 **GitHub:** [github.com/Pinkkygold](https://github.com/Pinkkygold)
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 ![Awab's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkkygold&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkkygold&layout=compact&theme=tokyonight)
@@ -140,5 +122,3 @@ Bringing explainability to AI in healthcare.
 
 ⭐ *“AI isn’t about replacing humans — it’s about empowering them through data-driven intelligence.”*  
 💡 *– Awab Elkhair (Pinkkygold)*  
-
----
