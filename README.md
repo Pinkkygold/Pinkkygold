@@ -1,16 +1,9 @@
-<!-- HEADER -->
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/Pinkkygold" target="_blank">Awab Idris</a> (aka Pinkkygold)</h1>
 <h3 align="center">🎓 Electronics & Computer Engineer | 🤖 Machine Learning Engineer | 🌍 UN Youth Delegate & Researcher</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Pinkkygold" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Pinkkygold&label=Profile%20views&color=blue&style=flat" alt="Profile Views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Pinkkygold&label=Profile%20views&color=blue&style=flat" />
 </p>
-
-<a target="_blank" align="center">
-  <img align="right" height="280" width="380" alt="Coding GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-yellow?logo=python&logoColor=white" />
@@ -18,6 +11,11 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-Engineer-green" />
   <img src="https://img.shields.io/badge/Render-Deployed%20Apps-success?logo=render" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" />
+</p>
+
 
 ---
 
