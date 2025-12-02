@@ -146,12 +146,17 @@ Experimental notebooks exploring **AI for healthcare, agriculture, and sustainab
 
 <h2 align="center">📊 GitHub Insights</h2>
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pinkkygold&show_icons=true&theme=tokyonight" alt="Awab's GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkkygold&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=Pinkkygold&show_icons=true&theme=tokyonight"
+    alt="Awab's GitHub stats"
+  />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinkkygold&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
 </p>
 
----
-
-<h3 align="center">⭐ “AI isn’t about replacing humans — it’s about empowering them through data-driven intelligence.”</h3>
-<p align="center">💡 – Awab Idris (Pinkkygold)</p>
