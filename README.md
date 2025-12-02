@@ -1,4 +1,3 @@
-
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/Pinkkygold" target="_blank">Awab Idris</a> (aka Pinkkygold)</h1>
 <h3 align="center">🎓 Electronics & Computer Engineer | 🤖 Machine Learning Engineer | 🌍 UN Youth Delegate & Researcher</h3>
@@ -22,11 +21,11 @@
 
 ## 🚀 About Me
 
-I’m an **Electronics & Computer Engineer** passionate about building **AI-driven solutions** that turn **data into intelligence** and **intelligence into action**.
+I’m an **Electronics & Computer Engineer** and **Machine Learning Engineer** passionate about building **AI-driven solutions** that turn **data into intelligence** and **intelligence into action**.
 
 Over the past year, I’ve developed and deployed **10+ interactive Machine Learning web apps** — all live on **Render Cloud** — showcasing my expertise in **Flask**, **Scikit-Learn**, **XGBoost**, and **end-to-end ML deployment**.
 
-💡 *My mission: empower humans through intelligent, ethical AI.*
+💡 *Mission: empower humans through intelligent, ethical AI.*
 
 ---
 
@@ -38,50 +37,53 @@ Over the past year, I’ve developed and deployed **10+ interactive Machine Lear
 | Category | Project | Live Demo | GitHub |
 |---------|---------|-----------|--------|
 | 🏠 **Linear Regression** | Boston House Price Predictor | [Live](https://house-price-prediction-d58i.onrender.com) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Supervised%20learning/Regression%20models/Boston%20House) |
-| 🚗 | Car Price Prediction | [Live](https://car-price-predictor-6t6e.onrender.com) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Supervised%20learning/Regression%20models/Car%20Price%20predictor) |
+| 🚗 **Regression** | Car Price Prediction | [Live](https://car-price-predictor-6t6e.onrender.com) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Supervised%20learning/Regression%20models/Car%20Price%20predictor) |
 | 🙂 | Happiness Index (Income → Happiness) | [Live](https://machine-learning-projects-d0gh.onrender.com) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Supervised%20learning/Regression%20models/Happyness%20Index) |
 | 🍦 **Polynomial Regression** | Ice Cream Sales Predictor | [Live](https://ice-cream-sales-jv5w.onrender.com) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Supervised%20learning/Polynomial%20Regression/Ice%20Cream%20sales) |
 | 🎗️ **Logistic Regression** | Breast Cancer Predictor | [Live](https://simple-breast-cancer-predictor.onrender.com) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Supervised%20learning/LogisticRegression/Breast%20Cancer) |
-| ❤️ | Heart Attack Risk (Logistic Regression) | [Live](https://machine-learning-projects-s5t4.onrender.com) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Supervised%20learning/LogisticRegression/Heartattack%20prediction) |
+| ❤️ **Logistic Regression** | Heart Attack Risk | [Live](https://machine-learning-projects-s5t4.onrender.com) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Supervised%20learning/LogisticRegression/Heartattack%20prediction) |
 | 🌸 **Random Forest** | Iris Flower Classifier | [Live](https://iris-classifier-vv7m.onrender.com) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Supervised%20learning/RandomForest/Iris%20Classifier) |
 | 💉 **KNN Classifier** | Diabetes Risk Prediction | [Live](https://knn-diabetes.onrender.com) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Unsupervised%20learning/K-nearest%20neighbors/Diabetes) |
 | 💸 **KNN Regressor** | Restaurant Tip Prediction | [Live](https://tipsamount.onrender.com) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Unsupervised%20learning/K-nearest%20neighbors/Tips) |
 | 📩 **Naive Bayes** | Spam vs Ham Classifier | [Live](https://spamham-predictor.onrender.com) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Unsupervised%20learning/NaiveBase/SpamHam) |
-| 😃 | Emotion Detection (Text → Emotion) | [Live](https://emotions-predictor.onrender.com) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Unsupervised%20learning/NaiveBase/Emotions) |
+| 😃 **Naive Bayes** | Emotion Detection (Text → Emotion) | [Live](https://emotions-predictor.onrender.com) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Unsupervised%20learning/NaiveBase/Emotions) |
 | 📊 **K-Means** | Customer Segmentation | – (local app) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Unsupervised%20models/K%20means) |
 | 🎬 **Recommender System** | Movie Recommendation System | [Live](https://movierecommender-ovt8.onrender.com) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Unsupervised%20models/RecommendationSystem) |
 | 📉 **XGBoost** | Telco Customer Churn | – (notebook + model) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Supervised%20learning/XGBoost/TeleCustomerPred) |
-| 🚢 | Titanic Survival (XGBoost) | – (notebook + model) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Supervised%20learning/XGBoost/TitanicPred) |
+| 🚢 **XGBoost** | Titanic Survival | – (notebook + model) | [Repo](https://github.com/Pinkkygold/Machine-Learning-projects/tree/main/Supervised%20learning/XGBoost/TitanicPred) |
 
 <p align="center">
-  ⭐ More models, notebooks, and deployed apps are available in my  
+  ⭐ More models, notebooks, and deployed apps in my  
   <a href="https://github.com/Pinkkygold/Machine-Learning-projects"><b>Machine Learning Projects Repository</b></a> ⭐
 </p>
 
 ---
 
-## 🧩 Main ML Portfolio Repo – *Machine Learning Projects*
+## 🧩 Main ML Portfolio – *Machine-Learning-projects*
 
 My central ML portfolio lives here:  
 👉 **[Machine-Learning-projects](https://github.com/Pinkkygold/Machine-Learning-projects)**
 
 It includes:
 
-- 🧮 **Supervised learning**  
-  - Regression models (Boston, Cars, Happiness)  
-  - Logistic Regression apps (Breast Cancer, Heart Attack)  
-  - Decision Trees & Random Forest (Crop, Heart Attack, Iris)  
-  - Polynomial Regression (Ice Cream Sales)  
+- 🧮 **Supervised learning**
+  - Regression (Boston, Cars, Happiness, Ice Cream)  
+  - Logistic Regression (Breast Cancer, Heart Attack)  
+  - Random Forest & Decision Trees (Iris, Heart Attack)  
   - SVM (Credit Risk, Loans)  
   - XGBoost (Telco Churn, Titanic)  
 
-- 🔍 **Unsupervised learning / models**  
+- 🔍 **Unsupervised learning / models**
   - K-Means Customer Segmentation  
-  - KNN Apps (Diabetes, Tips)  
-  - Naive Bayes (Emotion, Spam/Ham)  
+  - KNN (Diabetes, Tips)  
+  - Naive Bayes (Emotions, Spam/Ham)  
   - Movie Recommendation System (content-based)
 
-Every major folder has its own **README**, ML pipeline, and where possible, a **deployed web app**.
+Each project has:
+- Clean **data preprocessing**
+- Documented **ML pipeline**
+- Evaluation metrics
+- Often a **deployed Flask web app**
 
 ---
 
@@ -102,35 +104,46 @@ Every major folder has its own **README**, ML pipeline, and where possible, a **
 
 ### 🔍 [Exploratory Data Analysis (EDA) Projects](https://github.com/Pinkkygold/EDA-projects)
 Data exploration notebooks covering **cleaning, wrangling, and visualization** on real-world datasets.  
-🛻 *Car Price Analysis* | 🛒 *EuroMart Sales Trends*  
-🧰 *Skills:* Feature Engineering • Correlation • Insights • Data Cleaning
+🛻 *Car Price Analysis* • 🛒 *EuroMart Sales Trends*  
+🧰 *Skills:* Feature Engineering • Correlation • Insights • Data Cleaning  
 
 ---
 
 ### 📊 [Power BI Projects](https://github.com/Pinkkygold/PowerBI-projects)
 A portfolio of **interactive dashboards** and **data storytelling reports** for real business cases.  
-📦 *Global Superstore Analytics* | 🧾 *ETL & KPI Reporting*  
-🧰 *Skills:* Power Query • DAX • Data Modeling • Visualization
+📦 *Global Superstore Analytics* • 📈 *Revenue & Profit KPIs*  
+🧰 *Skills:* Power Query • DAX • Data Modeling • Visualization  
 
 ---
 
-### 🤖 [Machine Learning Projects](https://github.com/Pinkkygold/Machine-Learning-projects)
-All my ML systems — regression, classification, recommendation, and ensemble models — built, evaluated, and many of them **deployed on Render**.  
-🧰 *Skills:* Full ML Pipelines • Flask APIs • Cloud Hosting • Model Evaluation • XGBoost • SVM • KMeans • Recommenders
-
----
-
-### 📘 [AI & Research Experiments](https://github.com/Pinkkygold/AI-Experiments)
+### 🤖 [AI & Research Experiments](https://github.com/Pinkkygold/AI-Experiments)
 Experimental notebooks exploring **AI for healthcare, agriculture, and sustainability**.  
-🧠 *Focus:* Deep Learning (TensorFlow, Keras), research-oriented prototypes.
+🧠 *Focus:* Deep Learning (TensorFlow/Keras), research-oriented prototypes.
+
+---
+
+## 🏗️ Project Development Workflow
+
+```mermaid
+graph LR
+    A[📊 Data Collection] --> B[🧹 Preprocessing]
+    B --> C[🔧 Feature Engineering]
+    C --> D[🤖 Model Training]
+    D --> E[📈 Evaluation]
+    E --> F[🚀 Flask API]
+    F --> G[☁️ Render Deployment]
+    G --> H[🌐 Live Application]
+    H --> I[📝 Documentation]
+    I --> J[🔄 Continuous Improvement]
+````
 
 ---
 
 ## 🎯 Current Focus
 
-- 🧠 Advancing into **Deep Learning & Neural Networks**  
-- 🌾 Applying **AI in Agriculture & Healthcare**  
-- 🤝 Building **open-source ML tools** for social good  
+* 🧠 Advancing in **Deep Learning & Neural Networks**
+* 🌾 Building **AI for Agriculture & Healthcare**
+* 🤝 Designing **AI tools for social impact & youth empowerment**
 
 ---
 
@@ -147,10 +160,11 @@ Experimental notebooks exploring **AI for healthcare, agriculture, and sustainab
 <h2 align="center">📊 GitHub Insights</h2>
 
 <!-- GitHub Stats -->
+
 <p align="center">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=Pinkkygold&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=Pinkkygold&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
     alt="Awab's GitHub stats"
   />
   <img
@@ -160,3 +174,38 @@ Experimental notebooks exploring **AI for healthcare, agriculture, and sustainab
   />
 </p>
 
+<!-- Streak Stats -->
+
+<p align="center">
+  <img
+    width="48%"
+    src="https://streak-stats.demolab.com/?user=Pinkkygold&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<!-- Activity Graph -->
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Pinkkygold&theme=react-dark&hide_border=true&area=true&custom_title=Awab's%20Contribution%20Graph"
+    alt="Awab's Contribution Graph"
+  />
+</p>
+
+<!-- Snake Animation -->
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Pinkkygold/Pinkkygold/output/github-contribution-grid-snake.svg"
+    alt="Snake animation"
+  />
+</p>
+
+---
+
+<p align="center">
+  💡 <i>"The best way to predict the future is to create it."</i><br><br>
+  ⭐ If you find my projects useful, consider giving them a star.<br>
+  🔔 Follow me for more ML apps, dashboards, and AI-for-impact projects.
+</p>
